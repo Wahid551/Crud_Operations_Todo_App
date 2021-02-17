@@ -11,7 +11,7 @@ A new Flutter Todo application. Which Perform CRUD operations.
 <img src='https://user-images.githubusercontent.com/73393935/108213983-6f634b00-7151-11eb-97ba-d1184da6296d.jpeg' width=280 />
 
 ## Gif
-<img src='https://user-images.githubusercontent.com/73393935/108213980-6d998780-7151-11eb-9a3b-b39cc6e72d0f.gif' width=300 />
+<img src='https://user-images.githubusercontent.com/73393935/108214739-573ffb80-7152-11eb-89c1-3420b5631a93.gif' width=300 />
 
 ## Getting Started
 
